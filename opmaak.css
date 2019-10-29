@@ -1,12 +1,8 @@
 body {
-  background-color: white;
+  background-image: url("https://www.hetwebsite.net/het/profiles/image/babbage.jpg");
   text-decoration-color: black;
 }
 
 td{
   border-bottom: 1px solid #ddd;
-}
-
-body {
-  background-image: url("https://www.hetwebsite.net/het/profiles/image/babbage.jpg");
 }
