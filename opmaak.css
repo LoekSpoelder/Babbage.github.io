@@ -7,6 +7,6 @@ td{
   border-bottom: 1px solid #ddd;
 }
 
-p.sans-serif {
-  font-style: sans-serif;
+body {
+  background-image: url("https://www.hetwebsite.net/het/profiles/image/babbage.jpg");
 }
