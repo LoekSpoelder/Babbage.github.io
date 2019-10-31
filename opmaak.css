@@ -1,6 +1,7 @@
 body{
   background-image: url("oldpaper.jpg");
   font-family: Arial;
+  max-width:1200px;
 }
 
 td{
