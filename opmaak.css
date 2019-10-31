@@ -2,6 +2,10 @@ body {
   background-image: url("babbage.jpg");
 }
 
-td{
+td {
   border-bottom: 1px solid #ddd;
+}
+
+p {
+  font-style: arial;
 }
